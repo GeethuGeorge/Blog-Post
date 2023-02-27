@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;;
+}
+
+body{
+  background-color: rgb(250, 247, 247);
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+}
+
+.content{
+  width:100%;
+  
+}
+header h2{
+  color:salmon
+}
+header p{
+  color:rgb(59, 49, 49);
+  text-align: center;
+}
+
+
+.content .card{
+  width:80%;
+  margin: auto;
+}
+
+
+.card img{
+width:400px;
+height:300px;
+}
